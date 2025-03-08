@@ -27,4 +27,4 @@ if st.button("🚀 Generate Password"):
     st.write("✅ Keep it safe and secure! 🔒")
 
 st.write("---")
-st.write("👩‍💻 Made by Samreen 💖")
+st.write("👩‍💻 Made by Alwaz Ansari 💖")
